@@ -1,6 +1,6 @@
 # DIGITAL COUNTER
 
-Work from https://repl.it/@annoyingmouse/Digital-Counter and documented here: https://drmsite.blogspot.com/2019/03/digital-counter.html
+Work originally from [repl.i](https://repl.it/@annoyingmouse/Digital-Counter) and documented on my [blog](https://drmsite.blogspot.com/2019/03/digital-counter.html).
 
 this is what it looks like:
 
