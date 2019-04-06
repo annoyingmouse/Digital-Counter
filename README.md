@@ -4,4 +4,4 @@ Work from https://repl.it/@annoyingmouse/Digital-Counter and documented here: ht
 
 this is what it looks like:
 
-![Digital Counter](annoyingmouse.github.com/Digital-Counter/DigitalCounter.gif)
+![Digital Counter](DigitalCounter.gif)
