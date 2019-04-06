@@ -1,0 +1,12 @@
+.number-output {
+    display: -ms-grid;
+    display: grid;
+}
+.block {
+    background-color: #000;
+    opacity: 0.2;
+    transition: opacity .25s linear;
+}
+.block.on {
+    opacity: 1;
+}
